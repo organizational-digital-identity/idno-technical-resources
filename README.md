@@ -33,3 +33,10 @@ Use **Issues** to report a specific problem or propose a concrete change. Use **
 ## Languages
 
 The project website is currently being developed in French. Technical resources and documentation will progressively be made available in English as the project develops.
+
+## Licenses
+
+- Technical resources, including data models, schemas, JSON/JSON-LD examples, and scripts, are licensed under the MIT License. See [LICENSE](LICENSE).
+- Documentation, methodology, and explanatory text are licensed under CC BY 4.0. See [LICENSE-DOCS.md](LICENSE-DOCS.md).
+
+When reusing documentation, please provide appropriate credit, link to the license, and indicate any changes.
